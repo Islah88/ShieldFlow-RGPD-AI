@@ -34,7 +34,7 @@ def seed():
     user = User(
         email="admin@shieldflow.demo",
         hashed_password=hash_password("demo2026"),
-        full_name="Marie Dupont",
+        full_name="Mhoma EL ISLAH",
         role="admin",
         organization_id=org.id,
     )

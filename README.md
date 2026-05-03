@@ -19,8 +19,8 @@ des traitements conforme au RGPD — propulsé par Google Gemini AI.**
 
 ## 🎬 Démo
 
-<!-- Remplacer par le GIF une fois capturé -->
-> 📸 *Screenshots ci-dessous — GIF de démo à venir*
+![ShieldFlow Dashboard](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-1-dashboard.png)
+> 📸 *Dashboard interactif de conformité RGPD*
 
 ## ✨ Fonctionnalités
 
@@ -91,13 +91,19 @@ npm run dev -- --port 3001
 <summary>Voir les screenshots</summary>
 
 ### Dashboard principal
+![ShieldFlow Dashboard](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-1-dashboard.png)
 Score de conformité RGPD avec jauge animée, KPIs en temps réel, scans récents et alertes actives.
 
 ### Scan & Upload
+![ShieldFlow Scan & Upload](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-2-scan.png)
 Zone de dépôt CSV drag & drop avec analyse IA et détection automatique des données personnelles.
 
 ### Registre Art. 30
+![ShieldFlow Registre Art. 30](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-3-registre.png)
 Registre des activités de traitement avec badges de conformité et génération IA.
+
+### Alertes Intelligentes
+![ShieldFlow Alertes](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-4-alertes.png)
 
 </details>
 

@@ -19,8 +19,8 @@ des traitements conforme au RGPD — propulsé par Google Gemini AI.**
 
 ## 🎬 Démo
 
-![ShieldFlow Dashboard](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/shieldflow-1-dashboard.png)
-> 📸 *Dashboard interactif de conformité RGPD*
+![ShieldFlow Démo](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/demo-shieldflow.gif)
+> 📸 *Démonstration en direct de l'agent IA en pleine action !*
 
 ## ✨ Fonctionnalités
 
